@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Surge - Neo-Arcade Touch Action",
+  "description": "High-octane touch-first arcade dodger and collector with fixed-timestep physics, combo multipliers, kinetic shockwave surges, synthesized audio, and customizable palettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
